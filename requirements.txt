@@ -1,0 +1,11 @@
+numpy
+tqdm
+clip-by-openai
+pandas
+mapie
+torch
+opencv-python
+matplotlib
+seaborn
+Pillow
+scikit-learn
